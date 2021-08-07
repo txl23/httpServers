@@ -1,0 +1,23 @@
+
+o
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÅÃí
+h
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(©ùƒá
+I
+java:S1068".Remove this unused "requestURL" private field.(ÎÔ½…ÿÿÿÿÿ
+v
+java:S1149‹"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÿ¶ã‹
+I
+java:S1128
+".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+M
+java:S1135E"2Complete the task associated to this TODO comment.(à­Òîÿÿÿÿÿ
+_
+java:S1128"IRemove this unused import 'jdk.nashorn.api.scripting.ScriptObjectMirror'.(úíÇ
+f	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¿®í
+t
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã™Ÿşıÿÿÿÿ
+p
+java:S1450"ZRemove the "queryString" field and declare it as a local variable in the relevant methods.(òõ‹Ë
+t
+java:S1450"YRemove the "requestURL" field and declare it as a local variable in the relevant methods.(ÎÔ½…ÿÿÿÿÿ

@@ -1,0 +1,38 @@
+
+G
+src/com/yc/NetTask.java,1\b\1b21085d14f56b3661a787bd7a3225889b383112
+:
+
+readme.txt,4\5\451685e9efac4a6dc1fee73ec53ffb6b2c4c38b5
+L
+.idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
+P
+ .idea/libraries/log4j_1_2_15.xml,8\f\8fbdf8c26fa5d6feb62a28940618d1415bcd3843
+D
+src/com/yc/Main.java,e\d\ed2248394b8ede8286d07c06c4b28f5dcfd06553
+F
+src/com/yc/IoUtil.java,1\f\1fca89d4789b8c77f32e4709db0748f742365ee1
+E
+conf/log4j.properties,6\7\67774a7c3656b27b0b9de003db7844aa166a0d75
+I
+src/com/HelloServlet.java,d\8\d800e4fe9066c15dd81dfc2cbabab454d5a25f58
+P
+ src/com/yc/DynamicProcessor.java,b\7\b7cbae72a6ba62e98d6bcc150bf12f250128da7b
+@
+webapps/404.html,f\7\f71485be6ef47d7ab9b5185f3b7c293cf562a910
+I
+src/com/yc/Processor.java,8\4\846049234eed3d0f2b3d3922c79b49bb43b39fc0
+O
+src/com/yc/StaticProcessor.java,a\a\aae419d0e79b6756669604eb0a40b9664acb09b8
+T
+$src/com/yc/YcHttpServletRequest.java,9\6\9618f09f25f0625d191884100e658778da2bfb30
+U
+%src/com/yc/YcHttpServletResponse.java,9\3\93cade272500a703d5111f874155230f5eb106d3
+R
+"src/com/yc/javax/HelloServlet.java,6\8\687a6d008554a79385e14ab58c2e1805a9b6ed80
+^
+.src/com/yc/javax/servlet/http/HttpServlet.java,2\d\2dfcb7ba93bbd9ce73e07e07a5ac3c45429b3584
+T
+$logs/httpserver.log_2021-03-22-18-47,c\7\c7671a6a91bf2078f4551429d45261ab8ed145c8
+F
+webapps/kaw/index.html,d\3\d37bac26e68cbf486691e7ec18efa41cc40c7564

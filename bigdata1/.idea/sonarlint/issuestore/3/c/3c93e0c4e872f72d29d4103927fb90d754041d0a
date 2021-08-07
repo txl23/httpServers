@@ -1,0 +1,25 @@
+
+`
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(¾öÕÎ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(à‚ô…øÿÿÿÿ
+8
+java:S2189""Add an end condition to this loop.(¾İ”
+L
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Ã±»Öøÿÿÿÿ8Ìä²“ô.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ï™ˆôıÿÿÿÿ8Ìä²“ô.
+H
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(Ÿã÷œ8Ìä²“ô.
+F
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
+z	java:S135!"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8Ìä²“ô.
+M
+java:S1128	"7Remove this unused import 'java.io.OutputStreamWriter'.(Ÿ“¸
+M
+java:S2589"7Remove this expression which always evaluates to "true"(¾İ”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾ÊÜùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­òüûÿÿÿÿ
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Û¥öøÿÿÿÿ8Ìä²“ô.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(õìÆúÿÿÿÿ8Ìä²“ô.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(±“„ëøÿÿÿÿ8Ìä²“ô.

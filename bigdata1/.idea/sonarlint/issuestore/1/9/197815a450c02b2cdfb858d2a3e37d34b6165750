@@ -1,0 +1,11 @@
+
+S
+java:S18542"6Remove this useless assignment to local variable "ba".(éÎ¾Ò8Í¹Í’õ.
+X
+java:S1854/"6Remove this useless assignment to local variable "ba".(²Äš˜üÿÿÿÿ8Í¹Í’õ.
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¾İ”8Í¹Í’õ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚ñ…àüÿÿÿÿ
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Şôçâùÿÿÿÿ8Í¹Í’õ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Şôçâùÿÿÿÿ8Í¹Í’õ.
+p
+java:S1192"NDefine a constant instead of duplicating this literal "atmå®¢æˆ·ç«¯:" 3 times.(‚ñ…àüÿÿÿÿ8Í¹Í’õ.

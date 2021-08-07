@@ -1,0 +1,15 @@
+
+N
+java:S1854A"8Remove this useless assignment to local variable "baos".(ÓäÈ
+_
+java:S1192X"IDefine a constant instead of duplicating this literal "\r\n\r\n" 7 times.(ã°ò£
+A
+java:S1172O"+Remove this unused method parameter "file".(ı®‚ó
+?
+java:S1481A")Remove this unused "baos" local variable.(ÓäÈ
+F
+java:S1172m"+Remove this unused method parameter "file".(‡‰õºøÿÿÿÿ
+t
+java:S1488u"^Immediately return this expression instead of assigning it to the temporary variable "result".(àı¿Õ
+;
+java:S1172t"&Remove these unused method parameters.(Éü›7

@@ -1,0 +1,8 @@
+
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ï¯ªèûÿÿÿÿ8§Œö¦ð.
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Êìú
+J
+java:S1604"(Make this anonymous inner class a lambda(áÂÆ›úÿÿÿÿ8§Œö¦ð.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(‡ï½Òùÿÿÿÿ8§Œö¦ð.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8§Œö¦ð.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(­™Í¿ÿÿÿÿÿ8§Œö¦ð.

@@ -1,0 +1,15 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÍØÕüıÿÿÿÿ8Ê¦Ã¥ğ.
+c
+java:S2142#"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ˆÁÈ¥ğ.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(°Ÿ¦úÿÿÿÿ8ˆÁÈ¥ğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™»…ûÿÿÿÿ8Ê¦Ã¥ğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğÎ®°8Ê¦Ã¥ğ.
+f
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(±¬®í8Ï¿Ğ¥ğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’×£°ıÿÿÿÿ8‡ıÖ¥ğ.
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ˆÁÈ¥ğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡õä8Ê¦Ã¥ğ.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾šÇÆ

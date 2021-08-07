@@ -1,0 +1,14 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(—±¯8Ş‘ÒÌñ.
+O
+java:S1068"-Remove this unused "maxThread" private field.(ËÅÒ¢üÿÿÿÿ8£ıËñ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾˜Ğüÿÿÿÿ8êÔÚÌñ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Øş8Ş‘ÒÌñ.
+O
+java:S1135/"2Complete the task associated to this TODO comment.(ğ¨‘Ó8é¸ÛÌñ.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(Œ¢¡ˆùÿÿÿÿ8àñÍñ.
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(áÃœßûÿÿÿÿ8ŸßŒËñ.
+K
+java:S1125>")Remove the literal "false" boolean value.(¤Üòëşÿÿÿÿ8ı•ëÌñ.

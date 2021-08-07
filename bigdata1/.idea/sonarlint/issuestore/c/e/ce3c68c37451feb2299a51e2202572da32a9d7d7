@@ -1,0 +1,24 @@
+
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ş°³©ğ.
+n
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‡ûõúÿÿÿÿ8Ş°³©ğ.
+E
+java:S1604"(Make this anonymous inner class a lambda(ÿïŞß8Ş°³©ğ.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‡É•¦üÿÿÿÿ
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¯ú™ú8Ş°³©ğ.
+H
+java:S1860""&Synchronize on a new "Object" instead.(ÈÑ³şÿÿÿÿ8³½İ©ğ.
+H
+java:S1860"&Synchronize on a new "Object" instead.(ÈÑ³şÿÿÿÿ8Ş°³©ğ.
+C
+java:S1860"&Synchronize on a new "Object" instead.(ºá£¨8Ş°³©ğ.
+D
+java:S1604"(Make this anonymous inner class a lambda(£·®8Ş°³©ğ.
+n
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áøÅÿÿÿÿÿ8Ş°³©ğ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¸ØïU8Ş°³©ğ.
+C
+java:S1860!"&Synchronize on a new "Object" instead.(ºá£¨8Ş°³©ğ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿ8¨‰Ü©ğ.

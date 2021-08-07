@@ -1,0 +1,8 @@
+
+f
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(¿í¼þÿÿÿÿÿ8Öæ¾“õ.
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Öæ¾“õ.
+š
+java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Ö»ä€ýÿÿÿÿ8Öæ¾“õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùÖŒ‹ùÿÿÿÿ8Öæ¾“õ.

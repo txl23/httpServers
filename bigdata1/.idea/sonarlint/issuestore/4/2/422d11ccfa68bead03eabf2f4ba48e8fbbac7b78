@@ -1,0 +1,14 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢½Êï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õÈäÉûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°àÆ¯ÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Š¥Âúÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(àşáñ
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ğ³Ã´
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áºÂ
+R
+java:S2589("7Remove this expression which always evaluates to "true"(ıª©ºøÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ì­…úÿÿÿÿ

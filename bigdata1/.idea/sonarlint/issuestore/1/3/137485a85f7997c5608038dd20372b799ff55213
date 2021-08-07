@@ -1,0 +1,14 @@
+
+]	java:S125;"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ô©•ô.
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™Öü8Æ“Õ”ô.
+T	java:S1062"9Replace this use of System.out or System.err by a logger.(ƒÚáB8³€‡•ô.
+C
+java:S1168S"&Return an empty array instead of null.(¥¹ï8¤¿±•ô.
+_
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(¿ùªöûÿÿÿÿ
+“
+java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Ö»ä€ıÿÿÿÿ
+]	java:S125&"<This block of commented-out lines of code should be removed.(âŠçöşÿÿÿÿ8ÿ¡…•ô.
+]	java:S125M"<This block of commented-out lines of code should be removed.(®Ì£ßıÿÿÿÿ8à¶¯•ô.

@@ -1,0 +1,19 @@
+
+8
+java:S2189""Add an end condition to this loop.(¾İ”
+b
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¬Èó‚
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×‚ŸË8–êâ—ô.
+S
+java:S1144"1Remove this unused private "genByteArray" method.(íÉªıÿÿÿÿ8­®ò—ô.
+S
+java:S1197"8Move the array designator from the variable to the type.(­¾÷‘üÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'java.net.SocketException'.(¼„™€ûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ùú­Ù8ˆ¡ƒ˜ô.
+T
+java:S2589"7Remove this expression which always evaluates to "true"(¾İ”8ë—Ñ—ô.
+C
+java:S1168&"&Return an empty array instead of null.(¥¹ï8­®ò—ô.

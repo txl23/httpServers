@@ -1,0 +1,13 @@
+
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(Ç‰˜8ñÇÏñ.
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(ãÍûÄùÿÿÿÿ8òİÊÏñ.
+c
+java:S2142,"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ĞÅºÏñ.
+e
+java:S42010"IRemove this unnecessary null check; "instanceof" returns false for nulls.(˜çàu8¼€ÔÏñ.
+L
+java:S10661"/Merge this if statement with the enclosing one.(Ö™€³8¼€ÔÏñ.
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(ÿË‚˜úÿÿÿÿ8òİÊÏñ.
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(óÔìÁùÿÿÿÿ8òİÊÏñ.
+c
+java:S2142c"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8òİÊÏñ.

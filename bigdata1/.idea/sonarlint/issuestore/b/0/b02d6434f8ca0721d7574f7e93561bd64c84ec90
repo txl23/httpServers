@@ -1,0 +1,15 @@
+
+J
+java:S1604	"(Make this anonymous inner class a lambda(ñ™˜ıÿÿÿÿ8İ·Œ§ğ.
+c
+java:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8İĞƒ§ğ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ê–å øÿÿÿÿ8´ô‚§ğ.
+X	java:S125"<This block of commented-out lines of code should be removed.(¡ä¢8‚Œˆ§ğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ê–å øÿÿÿÿ8Ï¹§ğ.
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ï¹§ğ.
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8´ô‚§ğ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ï¹§ğ.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(š±— øÿÿÿÿ

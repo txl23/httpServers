@@ -1,0 +1,26 @@
+
+c
+java:S2142f"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ƒò…«ð.
+]	java:S125_"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ìíƒ«ð.
+W
+java:S18549"5Remove this useless assignment to local variable "a".(¡ûÙúþÿÿÿÿ8†©ªð.
+c
+java:S2142)"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ø¸¥ªð.
+c
+java:S2142R"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8®·Š«ð.
+H
+java:S14819"&Remove this unused "a" local variable.(¡ûÙúþÿÿÿÿ8†©ªð.
+c
+java:S2184("FCast one of the operands of this multiplication operation to a "long".(ëáêÕ8Ø¸¥ªð.
+;
+java:S2119""Save and re-use this "Random".(¡Å”¦8”Ÿ¤ªð.
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÝÓ˜ëøÿÿÿÿ8…¼¼ªð.
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úŽüþ
+c
+java:S2184;"FCast one of the operands of this multiplication operation to a "long".(ëáêÕ8³æªªð.
+;
+java:S21197"Save and re-use this "Random".(¡Å”¦8Þ™ªªð.
+c
+java:S2142<"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8³æªªð.
+]	java:S125K"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ž…Š«ð.
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(Ïóà˜8ì†„«ð.

@@ -1,0 +1,7 @@
+
+e
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(õ›çóúÿÿÿÿ
+a
+java:S2259$"FA "NullPointerException" could be thrown; "incoming" is nullable here.(³ùÉ¾ûÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

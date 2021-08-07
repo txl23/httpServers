@@ -1,0 +1,15 @@
+
+c
+java:S21423"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¤úÌñ.
+m
+java:S22362"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(Šä8¤úÌñ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ä¨´é8¹áÓÎñ.
+M
+java:S2446""0"notify" may not wake up the appropriate thread.(­ÀôÉ8Ÿ¤ÈËñ.
+m
+java:S2236""PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(­ÀôÉ8Ÿ¤ÈËñ.
+F
+java:S1125.")Remove the literal "false" boolean value.(ù·±¿8âêèËñ.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ôşÍşÿÿÿÿ8¿ã¯Îñ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ£İÛ8—´ÎËñ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ŠÌ—üøÿÿÿÿ8ßğ±Îñ.

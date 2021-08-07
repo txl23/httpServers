@@ -1,0 +1,18 @@
+
+M	java:S106D"9Replace this use of System.out or System.err by a logger.(ØŒ˜|
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+]	java:S125,"<This block of commented-out lines of code should be removed.(âäÅàÿÿÿÿÿ8ÅåÛ˜ô.
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ÞÑÛ®ûÿÿÿÿ
+s	java:S135/"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(±“„ëøÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(žõìÆúÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(£±˜¸üÿÿÿÿ8Õ¢Ó˜ô.
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ýþŒ¤þÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Ã±»Öøÿÿÿÿ
+R
+java:S1117("5Rename "s" which hides the field declared at line 28.(ÍÚÆÝ8±ÚÖ˜ô.
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ï™ˆôýÿÿÿÿ
+`
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(¾öÕÎ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼Á¨¾øÿÿÿÿ

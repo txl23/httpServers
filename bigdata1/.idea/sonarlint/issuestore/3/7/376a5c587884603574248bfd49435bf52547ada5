@@ -1,0 +1,26 @@
+
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(ï™ˆôıÿÿÿÿ8¿²Åõ.
+z	java:S1358"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8©şÂõ.
+g
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(¾öÕÎ8Ã²¼õ.
+R
+java:S1117/"5Rename "s" which hides the field declared at line 34.(ÍÚÆİ8Ã²¼õ.
+]	java:S125#"<This block of commented-out lines of code should be removed.(£±˜¸üÿÿÿÿ8Ã²¼õ.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ışŒ¤şÿÿÿÿ8Ã²¼õ.
+]	java:S1251"<This block of commented-out lines of code should be removed.(ığçşÿÿÿÿ8†›²õ.
+]	java:S1254"<This block of commented-out lines of code should be removed.(âäÅàÿÿÿÿÿ8Ã²¼õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼Á¨¾øÿÿÿÿ8Ã²¼õ.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(Ã±»Öøÿÿÿÿ8¿²Åõ.
+]	java:S125"<This block of commented-out lines of code should be removed.(–şÿÿÿÿ8Ã²¼õ.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(±“„ëøÿÿÿÿ8¿²Åõ.
+T
+java:S1135b"2Complete the task associated to this TODO comment.(¯úê²ıÿÿÿÿ8åË‘õ.
+e
+java:S1192<"IDefine a constant instead of duplicating this literal "SNAPSHOT" 3 times.(„¼£m8ªåÏõ.
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ã²¼õ.
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(õìÆúÿÿÿÿ8ÄÒÇõ.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ŞÑÛ®ûÿÿÿÿ8ÄÒÇõ.
+T	java:S106["9Replace this use of System.out or System.err by a logger.(ØŒ˜|8ÄÒÇõ.
+C
+java:S1168y"&Return an empty array instead of null.(¥¹ï8ÄÒÇõ.

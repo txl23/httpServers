@@ -1,0 +1,9 @@
+
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ù³ê¦ğ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8›ìæ¦ğ.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ø¾£8È“Ê¦ğ.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÕÌ÷ªÿÿÿÿÿ8»‚ã¦ğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ø¾£8 éÍ¦ğ.
+X	java:S125"<This block of commented-out lines of code should be removed.(¤µ²8Ãã¦ğ.

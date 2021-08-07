@@ -1,0 +1,17 @@
+
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(¹»Õ—ıÿÿÿÿ8°£›“õ.
+a
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(ŠÒ—Á8°£›“õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ıÿÿÿÿ8°£›“õ.
+y
+java:S1192#"WDefine a constant instead of duplicating this literal "æœåŠ¡å™¨çš„å“åº”ä¸º:" 3 times.(¹»Õ—ıÿÿÿÿ8°£›“õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹ÃÅ´şÿÿÿÿ8°£›“õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅòˆÁúÿÿÿÿ8°£›“õ.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ùÖŒ‹ùÿÿÿÿ8°£›“õ.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¹»Õ—ıÿÿÿÿ8°£›“õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Çÿšıúÿÿÿÿ8°£›“õ.
+š
+java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(Ö»ä€ıÿÿÿÿ8°£›“õ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¹»Õ—ıÿÿÿÿ8°£›“õ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”Ëä8°£›“õ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ıÿÿÿÿ8°£›“õ.
